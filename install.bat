@@ -1,0 +1,1 @@
+PowerShell -Command ".\dotnet-install.ps1 -Version 3.1.2"
